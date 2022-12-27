@@ -1,10 +1,7 @@
 const CONFIG = {
 titleWeb: "WEB chi chi á",
     introTitle: 'NGUYỄN THỊ QUỲNH LƯU',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `I have some question for you , Be honest !`,
     btnIntro: '^^Mời Vào^^',
     title: 'Do You Hate Me ?',
     desc: 'Trả lời!',
